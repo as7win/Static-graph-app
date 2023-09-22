@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Install dependencies
+### `Install dependencies`
 npm install plotly.js react-plotly.js
 
 ### `npm start`
